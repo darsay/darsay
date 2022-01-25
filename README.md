@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, my name is Nacho! 👋
 
-<!--
-**darsay/darsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Videogame programmer looking forward to join new projects and improve my skills!
 
-Here are some ideas to get you started:
+### Skills:
+  - Unity
+  - C#
+  - Python
+  - C++
+  - Unreal Engine
+  - Java
+  - Html/Css
+  - Scrum and Agile
+  - Clean code and design patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me:
+  - mail: **molinanacho33@gmail.com**
+  - LinkedIn: **https://www.linkedin.com/in/ignacio-molina-gamedev/**
