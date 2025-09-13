@@ -1,7 +1,7 @@
 ## Hi there, my name is Nacho! 👋
 
 # 💫 About Me:
-🔭 I’m currently working as a C++ Game Developer<br>👯 I’m looking to collaborate on game development projects: from Unity to Unreal and any propietary Engine<br>🤝 I’m looking for help with building a Game Development Career<br>🌱 I’m currently learning Full Stack Web Development in a IronHack Bootcamp<br>⚡ I love participating in Game Jams!
+🔭 I’m currently working as a C++ Game Developer<br>👯 I’m looking to collaborate on game development projects: from Unity to Unreal and any propietary Engine<br>🤝 I’m looking for help with building a Game Development Career<br>⚡ I love participating in Game Jams!
 
 
 ## 🌐 Socials:
